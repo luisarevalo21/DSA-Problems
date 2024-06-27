@@ -101,3 +101,5 @@ class LinkedList {
     return returnArr;
   }
 }
+
+module.exports = LinkedList;
